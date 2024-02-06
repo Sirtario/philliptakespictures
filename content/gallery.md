@@ -6,4 +6,4 @@ showReadingTime = false
 showWordCount = false
 +++
 
-Here you can find some of my favorite Photographs.
+This section of my page is currently under construction.
