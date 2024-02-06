@@ -9,13 +9,13 @@ title = "Phillip takes pictures"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/Logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  secondaryLogo = "img/secondary-Logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
    name = "Phillip"
-#   image = "img/blowfish_logo.png"
+#   image = "img/Logo.png"
    headline = "It worked on my PC"
    bio = "Amature Photographer, Nerd and Coder"
    links = [
