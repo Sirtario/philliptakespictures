@@ -15,7 +15,7 @@ title = "Phillip takes pictures"
 
 [author]
    name = "Phillip"
-#   image = "img/blowfish_logo.png"
+#   image = "img/Logo.png"
    headline = "It worked on my PC"
    bio = "Amature Photographer, Nerd and Coder"
    links = [
