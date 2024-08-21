@@ -17,6 +17,6 @@ services:
   nginx:
     image: nginx:latest
     labels:
-      - traefik.http.routers.my-container.rule=Host(''philliptakespictures.de)
+      - traefik.http.routers.my-container.rule=Host('philliptakespictures.de')
     volumes:
       - ~/philliptakespictures/public:/usr/share/nginx/html
