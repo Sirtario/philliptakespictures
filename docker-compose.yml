@@ -31,6 +31,6 @@ services:
       - "traefik.http.routers.whoami.entrypoints=websecure"
       - "traefik.http.routers.whoami.tls.certresolver=myresolver"
     volumes:
-      -~/philliptakespictures/public:/usr/share/nginx/html
-      -~/nginx.conf:/etc/nginx/conf.d/nginx.conf:ro
+      - ~/philliptakespictures/public:/usr/share/nginx/html
+      - ~/nginx.conf:/etc/nginx/conf.d/nginx.conf:ro
     
