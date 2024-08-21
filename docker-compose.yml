@@ -22,6 +22,6 @@ services:
   nginx:
     image: nginx:latest
     ports:
-      - 80:80
+      - 8089:80
     volumes:
       - ~/philliptakespictures/public:/usr/share/nginx/html
